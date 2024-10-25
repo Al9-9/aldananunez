@@ -11,17 +11,30 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+  .Logo-port{
+    position:absolute;
+    top: 20px;
+    left: 50px;
+  }
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #244079;
+ 
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+.links{
+  display: flex;
+  list-style: none;
+  letter-spacing: 1px;
+}
+.link{
+  margin: 20px;
 }
 
 .App-link {
