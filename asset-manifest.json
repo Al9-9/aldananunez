@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aldananunez/static/css/main.29972b24.css",
-    "main.js": "/aldananunez/static/js/main.f21a29a1.js",
+    "main.js": "/aldananunez/static/js/main.eb04bca1.js",
     "static/js/453.d3710559.chunk.js": "/aldananunez/static/js/453.d3710559.chunk.js",
     "index.html": "/aldananunez/index.html",
     "main.29972b24.css.map": "/aldananunez/static/css/main.29972b24.css.map",
-    "main.f21a29a1.js.map": "/aldananunez/static/js/main.f21a29a1.js.map",
+    "main.eb04bca1.js.map": "/aldananunez/static/js/main.eb04bca1.js.map",
     "453.d3710559.chunk.js.map": "/aldananunez/static/js/453.d3710559.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29972b24.css",
-    "static/js/main.f21a29a1.js"
+    "static/js/main.eb04bca1.js"
   ]
 }
